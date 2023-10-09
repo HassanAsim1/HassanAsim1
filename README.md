@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassanAsim1
 - 👀 I’m interested in laravel, vue, pyhton
-- 🌱 I’m currently working as a full-stack developer (Upwork, Software House)
+- 🌱 I’m currently working as a full-stack developer (Upwork, Reownlogics)
 - 💞️ I’m looking to collaborate on laravel
 - 📫 How to reach me email (gujjarh086@gamul.com), twitter (_chhassan)
 
