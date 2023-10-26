@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @HassanAsim1
-- 👀 I’m interested in laravel, vue, pyhton
-- 🌱 I’m currently working as a full-stack developer (Upwork, Reownlogics)
-- 💞️ I’m looking to collaborate on laravel
-- 📫 How to reach me email (gujjarh086@gamul.com), twitter (_chhassan)
+🚀 Hi! My name is Hassan and I am a Full Stack developer
 
-<!---
-HassanAsim1/HassanAsim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔥 About Me:
+✔️ Experience: 4 years in web development.
+✔️ Back-end stack: PHP, Laravel, Node.JS.
+✔️ Experience in Databases: MySQL, PostgreSQL, MS SQL, MariaDB, MongoDB
+✔️ Area of expertise: Healthcare, E-commerce, FinTech, ERP, CRM, Logistics, Car Rent, Social Networks.
+✔️ Development for me is a challenge where I am capable of creating complex projects and finding the best solutions.
+
+I'm a part of a team where I can realize my professional skills and create great products. With my solid experience in both mobile and web applications, it will be easy to deliver software of any complexity. I specialize in complicated applications development using React.js, React Native, Vue.js, PHP, Laravel, Node.js
+
+🔥 These services we provide for FREE of charge:
+✔️ FREE 2 months of support
+✔️ FREE 2 months of warranty and debugging
+
+Need to empower your business? Get a free quote now!
+
+Buzz Words: React (React.js, ReactJS, React Native, React developer), PHP (Laravel), Node (Node.js, NodeJS), web developer, web development
