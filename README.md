@@ -1,7 +1,7 @@
 🚀 Hi! My name is Hassan and I am a Full Stack developer
 
 🔥 About Me:
-✔️ Experience: 4 years in web development.
+✔️ Experience: 4 years in web development & App Developer (Flutter IOS & Android).
 ✔️ Back-end stack: PHP, Laravel, Node.JS.
 ✔️ Experience in Databases: MySQL, PostgreSQL, MS SQL, MariaDB, MongoDB
 ✔️ Area of expertise: Healthcare, E-commerce, FinTech, ERP, CRM, Logistics, Car Rent, Social Networks.
